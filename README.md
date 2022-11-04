@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Taha Mahmood</h1>
-<h2 align="left">A Mechanical Engineer graduate transitioning into the world of Data. I am building expertise for the past couple of years in this field by learning programming languages & working on relevant projects.</h3>
+<h4 align="left">A Mechanical Engineer graduate transitioning into the world of Data. I am building expertise for the past couple of years in this field by learning programming languages & working on relevant projects.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emperortaha&label=Profile%20views&color=0e75b6&style=flat" alt="emperortaha" /> </p> 
   
