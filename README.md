@@ -1,10 +1,7 @@
-My name is Taha Mahmood, a Data Science & ML Enthusiast. I am building expertise in this field by learning new languages and doing relevant projects.   
-  
+<h1 align="center">Hi 👋, I'm Taha Mahmood</h1>
+<h3 align="center">A Mechanical Engineer graduate transitioning into the world of Data. I am building expertise for the past couple of years in this field by learning programming languages & working on relevant projects.</h3>
 
-- 🔭 I’m currently working at Daraz - ecommerce company based in South Asia  
-  
-
-- 🌱 I’m learning Data Visualization using Seaborn & Pytorch  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emperortaha&label=Profile%20views&color=0e75b6&style=flat" alt="emperortaha" /> </p> 
   
 
 <br/>  
