@@ -32,3 +32,5 @@ A Mechanical Engineer graduate transitioning into the world of Data. I am buildi
 </div> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emperortaha&label=Profile%20views&color=0e75b6&style=flat" alt="emperortaha" /> </p> 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emperortaha&show_icons=true&theme=merko&locale=en&layout=compact" alt="emperortaha" /></p>
