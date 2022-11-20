@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Taha Mahmood</h1>
 A Mechanical Engineer graduate transitioning into the world of Data. Building expertise for the past couple of years in this field by learning programming languages & working on relevant projects. 
 
-- 🔭 I’m currently working at Daraz - ecommerce company based in South Asia  
+- 🔭 I’m currently working at Daraz - ecommerce company based in South Asia.
   
 
-- 🌱 I’m learning Data Visualization using Seaborn & Pytorch  
+- 🌱 I’m currently exploring Artificial Intelligence libraries on TensorFlow.
 
   
 
