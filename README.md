@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Taha Mahmood</h1>
-A Mechanical Engineer graduate transitioning into the world of Data. Building expertise for the past couple of years in this field by learning programming languages & working on relevant projects. 
+A Mechanical Engineer undergrad transitioning into the world of Data. Building expertise for the past couple of years in this field by conducting numerous analyses of different product features. 
 
 - 🧑‍🎓 I am currently pursuing a Master's in Data Science from Arizona State University
   
@@ -7,7 +7,7 @@ A Mechanical Engineer graduate transitioning into the world of Data. Building ex
 - 🔭 I used to work at Daraz - an e-commerce company based in South Asia
   
 
-- 🌱 I’m currently the Llama2 - an open source large language model
+- 🌱 I’m currently learning Llama2 - an open-source large language model
 
   
 
