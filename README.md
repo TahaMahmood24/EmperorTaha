@@ -2,7 +2,7 @@
 A Mechanical Engineer graduate transitioning into the world of Data. Building expertise for the past couple of years in this field by learning programming languages & working on relevant projects. 
 
 - 🧑‍🎓 I am currently pursuing a Master's in Data Science from Arizona State University
-- 
+  
 
 - 🔭 I used to work at Daraz - an e-commerce company based in South Asia
   
