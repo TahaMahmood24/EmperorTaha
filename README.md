@@ -4,10 +4,10 @@ A Mechanical Engineer undergrad transitioning into the world of Data. Building e
 - 🧑‍🎓 I am currently pursuing a Master's in Data Science from Arizona State University
   
 
-- 🔭 I used to work at Daraz - an e-commerce company based in South Asia
+- 🔭 I used to work at Daraz (Alibaba Group) - an e-commerce company based in South Asia
   
 
-- 🌱 I’m currently learning Llama2 - an open-source large language model
+- 🌱 I’m currently learning Llama2 - an open-source large language model created by Meta AI
 
   
 
