@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Taha Mahmood</h1>
-A Mechanical Engineer undergrad transitioning into the world of Data. Building expertise for the past couple of years in this field by conducting numerous analyses of different product features. 
+As a dedicated graduate student in Data Science, I'm thrilled to welcome you to my GitHub realm—a place where raw data transforms into captivating narratives.
 
 - 🧑‍🎓 I am currently pursuing a Master's in Data Science from Arizona State University
   
